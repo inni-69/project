@@ -1,1 +1,1 @@
-# project
+This project is made by Suyash Deep with the help of HTML, CSS, JS, EJS and Mongodb
